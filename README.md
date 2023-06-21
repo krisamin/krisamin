@@ -1,10 +1,7 @@
 ![Header - Hello](./images/dark/header_hello.png#gh-dark-mode-only)
 ![Header - Hello](./images/light/header_hello.png#gh-light-mode-only)
-
-
 ![Header - Hello](./images/dark/header_repositories.png#gh-dark-mode-only)
 ![Header - Hello](./images/light/header_repositories.png#gh-light-mode-only)
-
 ![Repository - 깃허브 README 연동](./images/dark/repository_91.png#gh-dark-mode-only)
 ![Repository - 깃허브 README 연동](./images/light/repository_91.png#gh-light-mode-only)
 ![Repository - 2w.vc](./images/dark/repository_4.png#gh-dark-mode-only)
