@@ -26,10 +26,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_82.png">
   <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_82.png">
 </picture></a>
-<a href="https://git.gold/KR-isamin/jinseomyeon" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_88.png">
-  <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_88.png">
-</picture></a>
 <a href="https://git.gold/KR-isamin/comciganfast-front" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_85.png">
   <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_85.png">
