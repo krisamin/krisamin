@@ -22,14 +22,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_104.png">
   <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_104.png">
 </picture></a>
-<a href="https://archive.codes/krisamin/linkfast-front" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_87.png">
-  <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_87.png">
-</picture></a>
-<a href="https://archive.codes/krisamin/comciganfast-front" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_85.png">
-  <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_85.png">
-</picture></a>
 <a href="https://archive.codes/krisamin/dimigomeal-front" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_84.png">
   <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_84.png">
@@ -69,8 +61,4 @@
 <a href="https://archive.codes/krisamin/2w.vc" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_4.png">
   <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_4.png">
-</picture></a>
-<a href="https://archive.codes/krisamin/ttiyong-ttiyong-woig-woig" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.2w.vc/images/dark/repository_3.png">
-  <img align="top" alt="Header - Repositories" src="https://readme.2w.vc/images/light/repository_3.png">
 </picture></a>
